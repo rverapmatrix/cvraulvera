@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Practica de programacion Web I
 
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Raul Vera Portanda
